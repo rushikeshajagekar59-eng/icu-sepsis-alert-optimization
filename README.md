@@ -1,10 +1,7 @@
 # ICU Sepsis Risk & Alert Optimization
 
 ### Healthcare Analytics | Risk Segmentation | Operational Strategy
-
-![Executive Dashboard](./ICU_Sepsis_Executive_Dashboard%20%281%29.png)
-
----
+![Executive Dashboard](./ICU_Sepsis_Executive_Dashboard.png)---
 
 ## Business Problem
 
